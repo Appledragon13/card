@@ -1,0 +1,48 @@
+/*Color oalette
+sea green -  #47f7b5 
+terquoise -  #17b6b6 
+blue -  #193ce8 
+puerple blue - #1F0763
+pink -  #ff5eff 
+yellow - #DDFF00
+*/
+@import url('https://fonts.googleapis.com/css2?family=Charm:wght@400;700&family=Rubik+Glitch&display=swap');
+/*Fonts
+font-family: "Rubik Glitch", serif;
+font-family: "Charm", serif;
+*/
+
+body {
+    background-color:#1F0763 ;
+}
+
+.nav-custom {
+    color:  #ff5eff !important;
+    font-size: 150% !important;
+    font-family: "Rubik Glitch", serif;
+}
+
+a {
+    color: #DDFF00 !important;
+}
+
+main {
+    color:#47f7b5;
+    font-family: 'Comic Sans MS', cursive;
+}
+main .col h2 {
+    font-family: "Charm", serif;
+}
+
+main .col img {
+    height: 219px;
+    width:219px;
+}
+
+main .col p {
+    padding: 10px;
+}
+
+.am {
+    text-align: left;
+}
